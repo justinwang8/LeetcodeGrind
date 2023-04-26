@@ -10,6 +10,10 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
+
+//Time: O(n), n=# of nodes in the tree
+//Space: O(n), n=maximum # of nodes in a given level
+
 var levelOrder = function(root) {
     //Final Output Array
     let resultArray = [];
