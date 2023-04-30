@@ -10,6 +10,10 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
+
+//Time: O(n)
+//Space: O(n)
+
 var detectCycle = function(head) {
     let map = new Map();
     let currentNode = head;
