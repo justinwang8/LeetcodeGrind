@@ -6,3 +6,8 @@ Repository to store Leetcode practice files
 
 70. Climbing Stairs
 409. Longest Palindrome
+
+# Questions Which I can Improve 
+
+299. Bulls and Cows
+
