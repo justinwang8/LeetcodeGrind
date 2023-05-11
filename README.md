@@ -2,7 +2,7 @@
 
 Repository to store Leetcode practice files
 
-# Questions I'm Still Confused About
+# Confused About Algorithm
 
 70. Climbing Stairs
 409. Longest Palindrome
@@ -10,4 +10,9 @@ Repository to store Leetcode practice files
 # Questions Which I can Improve 
 
 299. Bulls and Cows
+
+# Confused About Time/Space Compexity
+
+394. Decode String
+
 
