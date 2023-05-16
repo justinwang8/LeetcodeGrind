@@ -8,6 +8,7 @@ Repository to store Leetcode practice files
 
 70. Climbing Stairs
 409. Longest Palindrome
+98. Validate Binary Search Tree
 
 # Questions Which I can Improve the Algorithm
 
@@ -17,6 +18,7 @@ Repository to store Leetcode practice files
 
 394. Decode String
 590. N-ary Tree Postorder Traversal
+98. Validate Binary Search Tree
 
 # Important Functions
 
