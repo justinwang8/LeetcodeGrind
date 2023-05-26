@@ -21,6 +21,13 @@ Repository to store Leetcode practice files
 590. N-ary Tree Postorder Traversal
 98. Validate Binary Search Tree
 104. Maximum Depth of Binary Tree
+841. Keys and Rooms
+
+# Confused Concepts
+
+DFS
+Dynamic Programming
+Sliding Window
 
 # Important Functions
 
