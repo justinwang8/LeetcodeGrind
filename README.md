@@ -14,6 +14,7 @@ Repository to store Leetcode practice files
 # Questions Which I can Improve the Algorithm
 
 299. Bulls and Cows
+338. Counting Bits
 
 # Confused About Time/Space Compexity
 
