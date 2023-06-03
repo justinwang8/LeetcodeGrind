@@ -34,8 +34,8 @@ Sliding Window
 
 ## 1. sort()
 
-Swap if value returned is NEGATIVE
-DO NOT Swap if value returned is POSITIVE
+Swap if value returned is POSITIVE
+DO NOT Swap if value returned is NEGATIVE
 
 let array = [3, 1, 2, 4, 5];
 array.sort((a, b) => a - b); // [1, 2, 3, 4, 5]
