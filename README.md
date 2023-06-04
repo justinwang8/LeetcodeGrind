@@ -24,6 +24,7 @@ Repository to store Leetcode practice files
 104. Maximum Depth of Binary Tree
 841. Keys and Rooms
 17. Letter Combinations of a Phone Number
+739. Daily Temperatures
 
 # Confused Concepts
 
