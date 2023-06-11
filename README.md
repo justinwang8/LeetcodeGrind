@@ -10,6 +10,7 @@ Repository to store Leetcode practice files
 409. Longest Palindrome
 98. Validate Binary Search Tree
 104. Maximum Depth of Binary Tree
+649. Dota2 Senate
 
 # Questions Which I can Improve the Algorithm
 
