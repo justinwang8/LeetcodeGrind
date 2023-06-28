@@ -11,6 +11,7 @@ Repository to store Leetcode practice files
 98. Validate Binary Search Tree
 104. Maximum Depth of Binary Tree
 649. Dota2 Senate
+334. Increasing Triplet Subsequence
 
 # Questions Which I can Improve the Algorithm
 
