@@ -20,6 +20,7 @@ Repository to store Leetcode practice files
 299. Bulls and Cows
 338. Counting Bits
 238. Product of Array Except Self
+2130. Maximum Twin Sum of a Linked List
 
 # Confused About Time/Space Compexity
 
